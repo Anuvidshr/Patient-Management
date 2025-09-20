@@ -6,6 +6,9 @@
 logs/
 *.out
 
+# Documentation (keep local only)
+README.md
+
 # Eclipse & IntelliJ IDEA
 /.idea/
 /*.iml
